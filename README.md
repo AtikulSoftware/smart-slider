@@ -34,7 +34,7 @@
 
 ## About The Project
 
-![Screen Shot](https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif)
+![Screen Shot](https://raw.githubusercontent.com/AtikulSoftware/AtikulFiles/main/smartslider.gif)
 
 Smart Slider Android is a powerful and versatile library for creating dynamic and interactive sliders in your Android applications. Whether you want to showcase images custom content, this library provides an easy-to-use solution with a wide range of customization options.
 
