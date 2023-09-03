@@ -64,9 +64,9 @@ allprojects {
         android:layout_marginTop="20dp"
         android:id="@+id/smartSlider"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:paddingStart="80dp"
-        android:paddingEnd="80dp"
+        android:layout_height="100dp"
+        android:paddingStart="60dp"
+        android:paddingEnd="60dp"
         />
 ```
 
