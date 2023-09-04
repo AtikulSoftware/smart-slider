@@ -10,7 +10,7 @@
     Android Image Slider Library - Easy & Quick
     <br/>
     <br/>
-    <a href="https://github.com/AtikulSoftware/smart-slider"><strong>Explore the docs »</strong></a>
+    <a href="https://youtu.be/S1YOLeu0WHE?si=HE0NrWpFDh48wOAT"><strong>Explore the video docs »</strong></a>
     <br/>
     <br/>
     <a href="https://github.com/AtikulSoftware/smart-slider">View Demo</a>
